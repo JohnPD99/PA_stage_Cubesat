@@ -167,6 +167,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIAIVIOL
 
+[Document8]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=..\..\..\Celestial_Library\altium-library\footprints\Connector - RF\PCB - CONNECTOR - RF - MOLEX SD-73251-115.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XWBILXQG
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1159,6 +1193,15 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=NetA3_S|NetColor=$0000BE00
+Net2=NetName=NetA4_S|NetColor=$0000BE00
+Net3=NetName=NetC10_1|NetColor=$0000BE00
+Net4=NetName=NetC12_2|NetColor=$0000BE00
+Net5=NetName=NetC13_2|NetColor=$0000BE00
+Net6=NetName=NetC14_2|NetColor=$0000BE00
+Net7=NetName=NetIC2_2|NetColor=$0000BE00
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
