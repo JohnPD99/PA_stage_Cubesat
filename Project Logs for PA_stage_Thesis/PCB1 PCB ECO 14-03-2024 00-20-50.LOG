@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L3 Old Footprint=IND 0603_1608 RF WW New Footprint=0402
+Change Component Comment : Designator=L3 Old Comment=1.2nH New Comment=1n2
+Change component parameters: Designator = "L3" ("L3"); Footprint = "IND 0603_1608 RF WW"; UniqueID = "\RFYZOZSK" ("\RFYZOZSK")
