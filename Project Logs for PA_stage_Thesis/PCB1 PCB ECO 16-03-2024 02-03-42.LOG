@@ -1,0 +1,37 @@
+Change Component Comment : Designator=C10 Old Comment=4p7 New Comment=100 pF
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP 0402_1005 RF"; UniqueID = "\HHSHHTJY" ("\HHSHHTJY")
+Change component parameters (AddParameter): Name = "Applications"; Value = "RF, Microwave, High Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "https://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_HQ_Low_ESR_HH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/walsin-technology-corporation/HH15N101J500CT/14836854"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "High Q, Low Loss, Ultra Low ESR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "08/02/2024 21:11:44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "Walsin Technology Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "HH15N101J500CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "3136"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "HH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1292-HH15N101J500CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
