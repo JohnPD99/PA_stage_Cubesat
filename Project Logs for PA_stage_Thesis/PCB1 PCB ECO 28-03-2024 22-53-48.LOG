@@ -1,0 +1,66 @@
+Change Footprint: Footprint Not Found P701000045R
+Change Footprint: Footprint Not Found P701000045R
+Change Footprint: Footprint Not Found P701000045R
+Change Footprint: Footprint Not Found P701000045R
+Change Footprint: Footprint Not Found P701000045R
+Change Component Comment : Designator=J1 Old Comment=0922-0-15-20-75-14-11-0 New Comment=P70-1000045R
+Change Component Comment : Designator=J2 Old Comment=0922-0-15-20-75-14-11-0 New Comment=P70-1000045R
+Change Component Comment : Designator=J3 Old Comment=0922-0-15-20-75-14-11-0 New Comment=P70-1000045R
+Change Component Comment : Designator=J4 Old Comment=0922-0-15-20-75-14-11-0 New Comment=P70-1000045R
+Change Component Comment : Designator=J5 Old Comment=0922-0-15-20-75-14-11-0 New Comment=P70-1000045R
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3B450323-A9A8-49E8-8817-09F1DC925BB8 New ItemGUID= Old RevisionGUID=6F9665AE-8BE9-4462-8F81-8E7EF6CBCA29 New RevisionGUID=
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3B450323-A9A8-49E8-8817-09F1DC925BB8 New ItemGUID= Old RevisionGUID=6F9665AE-8BE9-4462-8F81-8E7EF6CBCA29 New RevisionGUID=
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3B450323-A9A8-49E8-8817-09F1DC925BB8 New ItemGUID= Old RevisionGUID=6F9665AE-8BE9-4462-8F81-8E7EF6CBCA29 New RevisionGUID=
+Change Managed Component Library Link : Designator=J4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3B450323-A9A8-49E8-8817-09F1DC925BB8 New ItemGUID= Old RevisionGUID=6F9665AE-8BE9-4462-8F81-8E7EF6CBCA29 New RevisionGUID=
+Change Managed Component Library Link : Designator=J5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3B450323-A9A8-49E8-8817-09F1DC925BB8 New ItemGUID= Old RevisionGUID=6F9665AE-8BE9-4462-8F81-8E7EF6CBCA29 New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-0922-0-15-20-75-14-11-MFG"; UniqueID = "\HDIKFCHN" ("\HDIKFCHN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/P70-10X.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/P70-1000045R?qs=k41KVqW3ymrCImiCDlTbPw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "FP-0922-0-15-20-75-14-11-MFG"; UniqueID = "\QPRQZCET" ("\QPRQZCET")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/P70-10X.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/P70-1000045R?qs=k41KVqW3ymrCImiCDlTbPw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-0922-0-15-20-75-14-11-MFG"; UniqueID = "\MDMSRICH" ("\MDMSRICH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/P70-10X.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/P70-1000045R?qs=k41KVqW3ymrCImiCDlTbPw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "FP-0922-0-15-20-75-14-11-MFG"; UniqueID = "\JDMDDXJX" ("\JDMDDXJX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/P70-10X.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/P70-1000045R?qs=k41KVqW3ymrCImiCDlTbPw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "FP-0922-0-15-20-75-14-11-MFG"; UniqueID = "\XPULYSKQ" ("\XPULYSKQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/P70-10X.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-P70-1000045R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/P70-1000045R?qs=k41KVqW3ymrCImiCDlTbPw%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2

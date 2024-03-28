@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J1 Old Footprint=FP-0922-0-15-20-75-14-11-MFG New Footprint=P701000045R
+Change Component Footprint: Designator=J2 Old Footprint=FP-0922-0-15-20-75-14-11-MFG New Footprint=P701000045R
+Change Component Footprint: Designator=J3 Old Footprint=FP-0922-0-15-20-75-14-11-MFG New Footprint=P701000045R
+Change Component Footprint: Designator=J4 Old Footprint=FP-0922-0-15-20-75-14-11-MFG New Footprint=P701000045R
+Change Component Footprint: Designator=J5 Old Footprint=FP-0922-0-15-20-75-14-11-MFG New Footprint=P701000045R
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2

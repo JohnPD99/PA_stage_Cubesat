@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=5V Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Member From Class: ClassName=Mainamp_schematic Member=J2
+Change Component Footprint: Designator=J1 Old Footprint=FP-837-22-002-30-001101-MFG New Footprint=FP-0922-0-15-20-75-14-11-MFG
+Change Component Footprint: Designator=J2 Old Footprint=FP-837-22-002-30-001101-MFG New Footprint=FP-0922-0-15-20-75-14-11-MFG
+Change Component Footprint: Designator=J3 Old Footprint=FP-837-22-002-30-001101-MFG New Footprint=FP-0922-0-15-20-75-14-11-MFG
+Change Component Comment : Designator=J1 Old Comment=837-22-002-30-001101 New Comment=0922-0-15-20-75-14-11-0
+Change Component Comment : Designator=J2 Old Comment=837-22-002-30-001101 New Comment=0922-0-15-20-75-14-11-0
+Change Component Comment : Designator=J3 Old Comment=837-22-002-30-001101 New Comment=0922-0-15-20-75-14-11-0
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DBEE3287-DF2D-4F9A-94FB-1A69E9AC0371 New ItemGUID=3B450323-A9A8-49E8-8817-09F1DC925BB8 Old RevisionGUID=33C21CA9-A23B-415C-A3D5-4CE059AB5BF6 New RevisionGUID=6F9665AE-8BE9-4462-8F81-8E7EF6CBCA29
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DBEE3287-DF2D-4F9A-94FB-1A69E9AC0371 New ItemGUID=3B450323-A9A8-49E8-8817-09F1DC925BB8 Old RevisionGUID=33C21CA9-A23B-415C-A3D5-4CE059AB5BF6 New RevisionGUID=6F9665AE-8BE9-4462-8F81-8E7EF6CBCA29
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DBEE3287-DF2D-4F9A-94FB-1A69E9AC0371 New ItemGUID=3B450323-A9A8-49E8-8817-09F1DC925BB8 Old RevisionGUID=33C21CA9-A23B-415C-A3D5-4CE059AB5BF6 New RevisionGUID=6F9665AE-8BE9-4462-8F81-8E7EF6CBCA29
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-837-22-002-30-001101-MFG"; UniqueID = "\WUAPZPVT" ("\WUAPZPVT")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.83mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "9.525mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Panel, Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "259424"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "FP-837-22-002-30-001101-MFG"; UniqueID = "\XLBMCUWH" ("\XLBMCUWH")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.83mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "9.525mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Panel, Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "259424"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-837-22-002-30-001101-MFG"; UniqueID = "\GTKCECUZ" ("\GTKCECUZ")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.83mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "9.525mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Panel, Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "259424"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=J4(FP-0922-0-15-20-75-14-11-MFG)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.525mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Panel, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "259424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=J5(FP-0922-0-15-20-75-14-11-MFG)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.525mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Panel, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "259424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=5V Pin=J5-1
+Added Member To Class: ClassName=Preamp_schematic Member=Component J2 0922-0-15-20-75-14-11-0
+Added Member To Class: ClassName=Mainamp_schematic Member=Component J4 0922-0-15-20-75-14-11-0
+Added Member To Class: ClassName=Mainamp_schematic Member=Component J5 0922-0-15-20-75-14-11-0
