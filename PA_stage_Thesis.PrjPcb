@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Preamp_schematic.SchDoc
+DocumentPath=Preamp1_schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -66,6 +66,23 @@ GenerateClassCluster=0
 DocumentUniqueId=AQUFXWDZ
 
 [Document2]
+DocumentPath=Preamp2_schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NQTJSMMB
+
+[Document3]
 DocumentPath=Mainamp_schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGEIYLPU
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\Desktop\SAGE_LINEAR_TRANSPONDER\sage-com-hw\ARIS_COM_Transponder\ARIS_COM_Transponder.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVSTFWIS
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\Desktop\SAGE_LINEAR_TRANSPONDER\sage-com-hw\ARIS_COM_Transponder\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BTKBBTGO
 
-[Document5]
+[Document6]
 DocumentPath=..\..\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document6]
+[Document7]
 DocumentPath=..\..\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document7]
+[Document8]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIAIVIOL
 
-[Document8]
+[Document9]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\Celestial_Library\altium-library\footprints\Connector - RF\PCB - CONNECTOR - RF - MOLEX SD-73251-115.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
