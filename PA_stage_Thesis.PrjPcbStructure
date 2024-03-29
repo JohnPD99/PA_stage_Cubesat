@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=Mainamp_schematic.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Mainamp_schematic.SchDoc|FileName=Preamp_schematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Mainamp_schematic.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Mainamp_schematic.SchDoc|FileName=Preamp1_schematic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Mainamp_schematic.SchDoc|FileName=Preamp2_schematic.SchDoc|SheetNumber=2
