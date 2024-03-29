@@ -1,0 +1,9 @@
+Change Component Library : Designator=IC3 Old Library=* New Library=SamacSys.SchLib
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Added Room: Name=Mainamp_schematic
+Added Room: Name=Preamp1_schematic

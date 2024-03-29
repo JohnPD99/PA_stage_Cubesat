@@ -1,0 +1,55 @@
+Change Component Footprint: Designator=J1 Old Footprint=P701000045R New Footprint=2381000150000330
+Change Component Footprint: Designator=J2 Old Footprint=P701000045R New Footprint=2381000150000330
+Change Component Footprint: Designator=J3 Old Footprint=P701000045R New Footprint=2381000150000330
+Change Component Footprint: Designator=J4 Old Footprint=P701000045R New Footprint=2381000150000330
+Change Component Footprint: Designator=J5 Old Footprint=P701000045R New Footprint=2381000150000330
+Added Component: Designator=J6(2381000150000330)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2381-0-00-15-00-00-33-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2381-0-00-15-00-00-33-0/mill-max?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-11/sf-000233145.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.937mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mill-Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2381-0-00-15-00-00-33-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "575-2381000150000330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Mill-Max/2381-0-00-15-00-00-33-0?qs=glduVv6OWv4YzsZRhKKvyw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J7(2381000150000330)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2381-0-00-15-00-00-33-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2381-0-00-15-00-00-33-0/mill-max?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-11/sf-000233145.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.937mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mill-Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2381-0-00-15-00-00-33-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "575-2381000150000330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Mill-Max/2381-0-00-15-00-00-33-0?qs=glduVv6OWv4YzsZRhKKvyw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J8(2381000150000330)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2381-0-00-15-00-00-33-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2381-0-00-15-00-00-33-0/mill-max?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-11/sf-000233145.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.937mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mill-Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2381-0-00-15-00-00-33-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "575-2381000150000330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Mill-Max/2381-0-00-15-00-00-33-0?qs=glduVv6OWv4YzsZRhKKvyw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J9(2381000150000330)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2381-0-00-15-00-00-33-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2381-0-00-15-00-00-33-0/mill-max?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-11/sf-000233145.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.937mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mill-Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2381-0-00-15-00-00-33-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "575-2381000150000330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Mill-Max/2381-0-00-15-00-00-33-0?qs=glduVv6OWv4YzsZRhKKvyw%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Added Pin To Net: NetName=5V Pin=J6-1
+Added Pin To Net: NetName=5V Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=5V Pin=J9-1
+Added Member To Class: ClassName=Preamp2_schematic Member=Component J6 2381-0-00-15-00-00-33-0
+Added Member To Class: ClassName=Preamp2_schematic Member=Component J7 2381-0-00-15-00-00-33-0
+Added Member To Class: ClassName=Preamp2_schematic Member=Component J8 2381-0-00-15-00-00-33-0
+Added Member To Class: ClassName=Preamp2_schematic Member=Component J9 2381-0-00-15-00-00-33-0

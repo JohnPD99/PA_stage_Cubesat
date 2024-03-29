@@ -1,0 +1,51 @@
+Added Component: Designator=J1(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Added Component: Designator=J4(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Added Component: Designator=J5(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Added Component: Designator=J6(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Added Component: Designator=J7(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Added Component: Designator=J8(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Added Component: Designator=J9(Nail_Head)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=5V Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=5V Pin=J5-1
+Added Pin To Net: NetName=5V Pin=J6-1
+Added Pin To Net: NetName=5V Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=5V Pin=J9-1
+Added Member To Class: ClassName=Preamp1_schematic Member=Component J1 Nail_Head
+Added Member To Class: ClassName=Preamp1_schematic Member=Component J2 Nail_Head
+Added Member To Class: ClassName=Mainamp_schematic Member=Component J3 Nail_Head
+Added Member To Class: ClassName=Mainamp_schematic Member=Component J4 Nail_Head
+Added Member To Class: ClassName=Mainamp_schematic Member=Component J5 Nail_Head
+Added Member To Class: ClassName=Preamp2_schematic Member=Component J6 Nail_Head
+Added Member To Class: ClassName=Preamp2_schematic Member=Component J7 Nail_Head
+Added Member To Class: ClassName=Preamp2_schematic Member=Component J8 Nail_Head
+Added Member To Class: ClassName=Preamp2_schematic Member=Component J9 Nail_Head

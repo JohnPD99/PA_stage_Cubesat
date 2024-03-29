@@ -1,0 +1,34 @@
+Added Component: Designator=IC3(QFN50P300X300X86-17N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.qorvo.com/products/d/da006507"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.855mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Qorvo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "QPA9120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Added Pin To Net: NetName=GND Pin=IC3-1
+Added Pin To Net: NetName=NetC20_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_4 Pin=IC3-4
+Added Pin To Net: NetName=GND Pin=IC3-5
+Added Pin To Net: NetName=GND Pin=IC3-6
+Added Pin To Net: NetName=GND Pin=IC3-7
+Added Pin To Net: NetName=GND Pin=IC3-8
+Added Pin To Net: NetName=GND Pin=IC3-9
+Added Pin To Net: NetName=NetC21_1 Pin=IC3-10
+Added Pin To Net: NetName=NetC21_1 Pin=IC3-11
+Added Pin To Net: NetName=GND Pin=IC3-12
+Added Pin To Net: NetName=NetIC3_13 Pin=IC3-13
+Added Pin To Net: NetName=NetIC3_14 Pin=IC3-14
+Added Pin To Net: NetName=GND Pin=IC3-15
+Added Pin To Net: NetName=NetIC3_16 Pin=IC3-16
+Added Pin To Net: NetName=GND Pin=IC3-17
+Added Member To Class: ClassName=Preamp2_schematic Member=Component IC3 QPA9120
+Added Room: Name=Mainamp_schematic
+Added Room: Name=Preamp1_schematic

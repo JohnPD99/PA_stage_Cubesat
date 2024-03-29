@@ -1,0 +1,51 @@
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:Nail_Head
+Change Footprint: Cannot match pads with new footprint in component :J2 Footprint:Nail_Head
+Change Footprint: Cannot match pads with new footprint in component :J3 Footprint:Nail_Head
+Change Footprint: Cannot match pads with new footprint in component :J4 Footprint:Nail_Head
+Change Footprint: Cannot match pads with new footprint in component :J5 Footprint:Nail_Head
+Change Footprint: Cannot match pads with new footprint in component :J6 Footprint:Nail_Head
+Change Footprint: Cannot match pads with new footprint in component :J7 Footprint:Nail_Head
+Change Footprint: Cannot match pads with new footprint in component :J8 Footprint:Nail_Head
+Change Footprint: Cannot match pads with new footprint in component :J9 Footprint:Nail_Head
+Change Component Comment : Designator=J1 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change Component Comment : Designator=J2 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change Component Comment : Designator=J3 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change Component Comment : Designator=J4 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change Component Comment : Designator=J5 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change Component Comment : Designator=J6 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change Component Comment : Designator=J7 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change Component Comment : Designator=J8 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change Component Comment : Designator=J9 Old Comment=2381-0-00-15-00-00-33-0 New Comment=Nail_Head
+Change component parameters: Designator = "J1" ("J1"); Footprint = "2381000150000330"; UniqueID = "\CMGLNHRI" ("\CMGLNHRI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "2381000150000330"; UniqueID = "\JHXZROZT" ("\JHXZROZT")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "2381000150000330"; UniqueID = "\GYUKAHHJ" ("\GYUKAHHJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "2381000150000330"; UniqueID = "\THWTNQGD" ("\THWTNQGD")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "2381000150000330"; UniqueID = "\ZGKFZVER" ("\ZGKFZVER")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "2381000150000330"; UniqueID = "\PTBGYSIX" ("\PTBGYSIX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "2381000150000330"; UniqueID = "\NUGFKVON" ("\NUGFKVON")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "2381000150000330"; UniqueID = "\JSNOQLZU" ("\JSNOQLZU")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "2381000150000330"; UniqueID = "\TGPIAQIZ" ("\TGPIAQIZ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3889056"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2

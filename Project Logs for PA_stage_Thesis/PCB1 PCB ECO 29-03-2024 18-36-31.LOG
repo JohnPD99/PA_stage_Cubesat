@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=5V Pin=C18-2
+Change Component Footprint: Designator=C18 Old Footprint=CAP 0603_1608 RF New Footprint=CAP 0402_1005 RF
+Change Component Footprint: Designator=L4 Old Footprint=IND 0603_1608 RF WW New Footprint=IND 0402_1005 RF WW
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP 0603_1608 RF"; UniqueID = "\LIJPYLDB" ("\LIJPYLDB")
+Change component parameters (AddParameter): Name = "Applications"; Value = "RF, Microwave, High Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/CBR04C101J3GAC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/CBR04C101J3GAC/8572519"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "High Q, Low Loss, Ultra Low ESR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "08/02/2024 21:11:51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CBR04C101J3GAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "681"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "CBR-SMD RF C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "399-17684-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L4" ("L4"); Footprint = "IND 0603_1608 RF WW"; UniqueID = "\CHCQVBPI" ("\CHCQVBPI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-9138.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/LQW15AN18NG8ZD/6798772"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Amps)"; Value = "1.05 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "130mOhm Max"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Self Resonant"; Value = "5.2GHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.024" (0.60mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "18 nH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance Frequency - Test"; Value = "100 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "11/03/2024 07:55:40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material - Core"; Value = "Non-Magnetic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LQW15AN18NG8ZD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "193"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Q @ Freq"; Value = "30 @ 250MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "LQW15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.024" W (1.00mm x 0.60mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-15347-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Drum Core, Wirewound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "18 nH"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Added Pin To Net: NetName=5V Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Room: Name=Mainamp_schematic
+Added Room: Name=Preamp1_schematic
