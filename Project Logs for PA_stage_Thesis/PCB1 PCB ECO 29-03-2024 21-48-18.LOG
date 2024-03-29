@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=NetC11_2 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=NetC10_1 Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=NetC14_2 Pin=C14-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Added Room: Name=Preamp1_schematic
+Added Room: Name=Preamp2_schematic
