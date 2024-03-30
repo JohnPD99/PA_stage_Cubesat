@@ -218,6 +218,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWBILXQG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PA_stage_Thesis\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1255,12 +1259,13 @@ Net5=NetName=NetA4_S|NetColor=$0000BE00
 Net6=NetName=NetA5_S|NetColor=$0000BE00
 Net7=NetName=NetA6_S|NetColor=$0000BE00
 Net8=NetName=NetC10_1|NetColor=$0000BE00
-Net9=NetName=NetC12_2|NetColor=$0000BE00
-Net10=NetName=NetC13_2|NetColor=$0000BE00
-Net11=NetName=NetC14_2|NetColor=$0000BE00
-Net12=NetName=NetC20_2|NetColor=$0000BE00
-Net13=NetName=NetC21_1|NetColor=$0000BE00
-Net14=NetName=NetIC2_2|NetColor=$0000BE00
+Net9=NetName=NetC11_2|NetColor=$0000BE00
+Net10=NetName=NetC12_2|NetColor=$0000BE00
+Net11=NetName=NetC13_2|NetColor=$0000BE00
+Net12=NetName=NetC14_2|NetColor=$0000BE00
+Net13=NetName=NetC20_2|NetColor=$0000BE00
+Net14=NetName=NetC21_1|NetColor=$0000BE00
+Net15=NetName=NetIC2_2|NetColor=$0000BE00
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

@@ -1,0 +1,61 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\johnd\Documents\Altiumproject\PA_stage_Cubesat\PCB1.PcbDoc
+Date     : 30/03/2024
+Time     : 01:21:07
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (InNetClass('CPWG')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad IC1-7(25.73mm,41.485mm) on Top Layer 1 [Unplated] And Track (26.035mm,21.336mm)(29.337mm,21.336mm) on Top Layer 1 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad J9-1(6.731mm,-50.673mm) on Top Layer 1 And Pad J6-1(12.636mm,-23.622mm) on Top Layer 1 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad J6-1(12.636mm,-23.622mm) on Top Layer 1 And Track (16.96mm,-11.215mm)(17.002mm,-11.173mm) on Top Layer 1 
+   Violation between Un-Routed Net Constraint: Net 5V Between Track (17.002mm,-11.173mm)(17.044mm,-11.131mm) on Top Layer 1 And Pad R4-2(17.848mm,11.758mm) on Top Layer 1 
+   Violation between Un-Routed Net Constraint: Net 5V Between Track (21.209mm,-29.332mm)(21.209mm,-27.432mm) on Top Layer 1 And Track (25.633mm,-33.34mm)(25.633mm,-32.025mm) on Top Layer 1 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (0.635mm,-42.164mm) from Top Layer 1 to Bottom Layer 1 And Via (0.889mm,-5.08mm) from Top Layer 1 to Bottom Layer 1 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (2.736mm,28.568mm) from Top Layer 1 to Bottom Layer 1 And Via (4.736mm,24.568mm) from Top Layer 1 to Bottom Layer 1 
+Rule Violations :7
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.326mm) (Max=0.326mm) (Preferred=0.326mm) (InNetClass('CPWG'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=6mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:01
