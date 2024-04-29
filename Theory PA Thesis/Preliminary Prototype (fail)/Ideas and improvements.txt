@@ -1,0 +1,23 @@
+Thermal:
+1) make screw holes such that a heat sink can be attached
+2) ask thermal team for advice
+3) calculate # of vias such that enough heat gets transported away
+4) What about top of IC --> connection to case?
+
+Matching:
+1) Use coplanar wave guide
+2) isolate both amplifiers
+3) isolate the different frequencies on whole board
+4) Improve matching --> Problems with Qucs simulation
+
+Power supply:
+1) Look at suggestions from Armin
+
+Devboard:
+1) Conduct extensive tests
+
+
+Other thoughts:
+--> Possibly add more to the semester thesis --> Simulate how much coupling is on final Board
+Achim suggests two boards?? --> Shouldn't one work? -> Investigate
+
