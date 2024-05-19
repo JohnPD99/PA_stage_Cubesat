@@ -1,0 +1,294 @@
+Removed Pin From Net: NetName=GND Pin=A1-G
+Removed Pin From Net: NetName=GND Pin=A1-G
+Removed Pin From Net: NetName=GND Pin=A1-G
+Removed Pin From Net: NetName=GND Pin=A1-G
+Removed Pin From Net: NetName=GND Pin=A2-G
+Removed Pin From Net: NetName=GND Pin=A2-G
+Removed Pin From Net: NetName=GND Pin=A2-G
+Removed Pin From Net: NetName=GND Pin=A2-G
+Removed Pin From Net: NetName=GND Pin=A3-G
+Removed Pin From Net: NetName=GND Pin=A3-G
+Removed Pin From Net: NetName=GND Pin=A3-G
+Removed Pin From Net: NetName=GND Pin=A3-G
+Removed Pin From Net: NetName=GND Pin=A4-G
+Removed Pin From Net: NetName=GND Pin=A4-G
+Removed Pin From Net: NetName=GND Pin=A4-G
+Removed Pin From Net: NetName=GND Pin=A4-G
+Removed Pin From Net: NetName=GND Pin=A5-G
+Removed Pin From Net: NetName=GND Pin=A5-G
+Removed Pin From Net: NetName=GND Pin=A5-G
+Removed Pin From Net: NetName=GND Pin=A5-G
+Removed Pin From Net: NetName=GND Pin=A6-G
+Removed Pin From Net: NetName=GND Pin=A6-G
+Removed Pin From Net: NetName=GND Pin=A6-G
+Removed Pin From Net: NetName=GND Pin=A6-G
+Removed Pin From Net: NetName=GND Pin=A7-G
+Removed Pin From Net: NetName=GND Pin=A7-G
+Removed Pin From Net: NetName=GND Pin=A7-G
+Removed Pin From Net: NetName=GND Pin=A7-G
+Removed Pin From Net: NetName=GND Pin=A8-G
+Removed Pin From Net: NetName=GND Pin=A8-G
+Removed Pin From Net: NetName=GND Pin=A8-G
+Removed Pin From Net: NetName=GND Pin=A8-G
+Removed Member From Class: ClassName=MNA6A Member=A1
+Removed Member From Class: ClassName=MNA6A Member=A2
+Removed Member From Class: ClassName=TQP9111_Sparam_opt Member=A3
+Removed Member From Class: ClassName=TQP9111_Sparam_opt Member=A4
+Removed Member From Class: ClassName=QPA9120 Member=A5
+Removed Member From Class: ClassName=QPA9120 Member=A6
+Removed Member From Class: ClassName=TQP9111_Devboard_opt Member=A7
+Removed Member From Class: ClassName=TQP9111_Devboard_opt Member=A8
+Removed Member From Class: ClassName=CPWG Member=NetA1_S
+Removed Member From Class: ClassName=CPWG Member=NetA2_S
+Removed Member From Class: ClassName=CPWG Member=NetA3_S
+Removed Member From Class: ClassName=CPWG Member=NetA4_S
+Removed Member From Class: ClassName=CPWG Member=NetA5_S
+Removed Member From Class: ClassName=CPWG Member=NetA6_S
+Removed Member From Class: ClassName=CPWG Member=NetA7_S
+Removed Member From Class: ClassName=CPWG Member=NetA8_S
+Added Component: Designator=J13(60312202114513)
+Add component (AddParameter): Name = "Category"; Value = "Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Diameter"; Value = "0.51 WIDE x 0.25 THK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "DC~18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "MIL-STD-348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "60312202114513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "End Launch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Added Component: Designator=J14(60312202114513)
+Add component (AddParameter): Name = "Category"; Value = "Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Diameter"; Value = "0.51 WIDE x 0.25 THK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "DC~18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "MIL-STD-348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "60312202114513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "End Launch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Added Component: Designator=J15(60312202114513)
+Add component (AddParameter): Name = "Category"; Value = "Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Diameter"; Value = "0.51 WIDE x 0.25 THK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "DC~18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "MIL-STD-348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "60312202114513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "End Launch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Added Component: Designator=J16(60312202114513)
+Add component (AddParameter): Name = "Category"; Value = "Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Diameter"; Value = "0.51 WIDE x 0.25 THK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "DC~18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "MIL-STD-348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "60312202114513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "End Launch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Added Component: Designator=J17(60312202114513)
+Add component (AddParameter): Name = "Category"; Value = "Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Diameter"; Value = "0.51 WIDE x 0.25 THK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "DC~18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "MIL-STD-348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "60312202114513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "End Launch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Added Component: Designator=J18(60312202114513)
+Add component (AddParameter): Name = "Category"; Value = "Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Diameter"; Value = "0.51 WIDE x 0.25 THK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "DC~18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "MIL-STD-348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "60312202114513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "End Launch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Added Component: Designator=J19(60312202114513)
+Add component (AddParameter): Name = "Category"; Value = "Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Diameter"; Value = "0.51 WIDE x 0.25 THK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "DC~18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "MIL-STD-348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "60312202114513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "End Launch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Added Component: Designator=J20(60312202114513)
+Add component (AddParameter): Name = "Category"; Value = "Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Diameter"; Value = "0.51 WIDE x 0.25 THK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/60312202114513?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "DC~18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "MIL-STD-348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "60312202114513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "End Launch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin C38-1
+Add Pin To Net: Unknown Pin: Pin C38-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=GND Pin=J13-3
+Added Pin To Net: NetName=GND Pin=J13-4
+Added Pin To Net: NetName=GND Pin=J13-5
+Added Pin To Net: NetName=GND Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J14-3
+Added Pin To Net: NetName=GND Pin=J14-4
+Added Pin To Net: NetName=GND Pin=J14-5
+Added Pin To Net: NetName=GND Pin=J15-2
+Added Pin To Net: NetName=GND Pin=J15-3
+Added Pin To Net: NetName=GND Pin=J15-4
+Added Pin To Net: NetName=GND Pin=J15-5
+Added Pin To Net: NetName=GND Pin=J16-2
+Added Pin To Net: NetName=GND Pin=J16-3
+Added Pin To Net: NetName=GND Pin=J16-4
+Added Pin To Net: NetName=GND Pin=J16-5
+Added Pin To Net: NetName=GND Pin=J17-2
+Added Pin To Net: NetName=GND Pin=J17-3
+Added Pin To Net: NetName=GND Pin=J17-4
+Added Pin To Net: NetName=GND Pin=J17-5
+Added Pin To Net: NetName=GND Pin=J18-2
+Added Pin To Net: NetName=GND Pin=J18-3
+Added Pin To Net: NetName=GND Pin=J18-4
+Added Pin To Net: NetName=GND Pin=J18-5
+Added Pin To Net: NetName=GND Pin=J19-2
+Added Pin To Net: NetName=GND Pin=J19-3
+Added Pin To Net: NetName=GND Pin=J19-4
+Added Pin To Net: NetName=GND Pin=J19-5
+Added Pin To Net: NetName=GND Pin=J20-2
+Added Pin To Net: NetName=GND Pin=J20-3
+Added Pin To Net: NetName=GND Pin=J20-4
+Added Pin To Net: NetName=GND Pin=J20-5
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=J16-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=J15-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=J17-1
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=J18-1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=J20-1
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=J19-1
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_1 Pin=J13-1
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_5 Pin=J14-1
+Added Net: Name=NetIC1_5
+Added Member To Class: ClassName=MNA6A Member=Component J13 60312202114513
+Added Member To Class: ClassName=MNA6A Member=Component J14 60312202114513
+Added Member To Class: ClassName=TQP9111_Sparam_opt Member=Component J15 60312202114513
+Added Member To Class: ClassName=TQP9111_Sparam_opt Member=Component J16 60312202114513
+Added Member To Class: ClassName=QPA9120 Member=Component J17 60312202114513
+Added Member To Class: ClassName=QPA9120 Member=Component J18 60312202114513
+Added Member To Class: ClassName=TQP9111_Devboard_opt Member=Component J19 60312202114513
+Added Member To Class: ClassName=TQP9111_Devboard_opt Member=Component J20 60312202114513
+Added Member To Class: ClassName=CPWG Member=Wire NetC10_2
+Added Member To Class: ClassName=CPWG Member=Wire NetC13_1
+Added Member To Class: ClassName=CPWG Member=Wire NetC20_1
+Added Member To Class: ClassName=CPWG Member=Wire NetC21_2
+Added Member To Class: ClassName=CPWG Member=Wire NetC36_2
+Added Member To Class: ClassName=CPWG Member=Wire NetC39_1
+Added Member To Class: ClassName=CPWG Member=Wire NetIC1_1
+Added Member To Class: ClassName=CPWG Member=Wire NetIC1_5

@@ -174,7 +174,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -220,6 +220,40 @@ DocumentUniqueId=XWBILXQG
 
 [Document11]
 DocumentPath=Devboard_qorvo.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMGGMDNU
+
+[Document13]
+DocumentPath=..\..\..\Downloads\Altium_WR-SMA (rev23a).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -580,6 +614,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -1276,13 +1322,25 @@ Net5=NetName=NetA4_S|NetColor=$0000BE00
 Net6=NetName=NetA5_S|NetColor=$0000BE00
 Net7=NetName=NetA6_S|NetColor=$0000BE00
 Net8=NetName=NetC10_1|NetColor=$0000BE00
-Net9=NetName=NetC11_2|NetColor=$0000BE00
-Net10=NetName=NetC12_2|NetColor=$0000BE00
-Net11=NetName=NetC13_2|NetColor=$0000BE00
-Net12=NetName=NetC14_2|NetColor=$0000BE00
-Net13=NetName=NetC20_2|NetColor=$0000BE00
-Net14=NetName=NetC21_1|NetColor=$0000BE00
-Net15=NetName=NetIC2_2|NetColor=$0000BE00
+Net9=NetName=NetC10_2|NetColor=$0000BE00
+Net10=NetName=NetC11_2|NetColor=$0000BE00
+Net11=NetName=NetC12_2|NetColor=$0000BE00
+Net12=NetName=NetC13_1|NetColor=$0000BE00
+Net13=NetName=NetC13_2|NetColor=$0000BE00
+Net14=NetName=NetC14_2|NetColor=$0000BE00
+Net15=NetName=NetC20_1|NetColor=$0000BE00
+Net16=NetName=NetC20_2|NetColor=$0000BE00
+Net17=NetName=NetC21_1|NetColor=$0000BE00
+Net18=NetName=NetC21_2|NetColor=$0000BE00
+Net19=NetName=NetC36_1|NetColor=$0000BE00
+Net20=NetName=NetC36_2|NetColor=$0000BE00
+Net21=NetName=NetC37_2|NetColor=$0000BE00
+Net22=NetName=NetC39_1|NetColor=$0000BE00
+Net23=NetName=NetC39_2|NetColor=$0000BE00
+Net24=NetName=NetIC1_1|NetColor=$0000BE00
+Net25=NetName=NetIC1_5|NetColor=$0000BE00
+Net26=NetName=NetIC2_2|NetColor=$0000BE00
+Net27=NetName=NetIC4_2|NetColor=$0000BE00
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=Mainamp_schematic.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Mainamp_schematic.SchDoc|FileName=Preamp1_schematic.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Mainamp_schematic.SchDoc|FileName=Preamp2_schematic.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=MNA6A.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MNA6A.SchDoc|FileName=QPA9120.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MNA6A.SchDoc|FileName=TQP9111_Devboard_opt.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MNA6A.SchDoc|FileName=TQP9111_Sparam_opt.SchDoc|SheetNumber=3
