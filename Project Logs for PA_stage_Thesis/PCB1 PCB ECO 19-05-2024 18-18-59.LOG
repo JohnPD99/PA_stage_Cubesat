@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=CPWG Member=NetC20_1
+Removed Member From Class: ClassName=CPWG Member=NetC20_2
+Removed Member From Class: ClassName=CPWG Member=NetC21_1
+Removed Member From Class: ClassName=CPWG Member=NetC21_2
+Removed Member From Class: ClassName=CPWG Member=NetIC1_1
+Removed Member From Class: ClassName=CPWG Member=NetIC1_5
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin C38-1
+Add Pin To Net: Unknown Pin: Pin C38-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Change Class Name : Old Net Name=CPWG New Net Name=CPWG_2
+Added Class: Name=CPWG
+Added Member To Class: ClassName=QPA9120 Member=Component C16 100p
+Added Room: Name=MNA6A
+Added Room: Name=QPA9120
+Added Room: Name=TQP9111_Devboard_opt
+Added Room: Name=TQP9111_Sparam_opt
