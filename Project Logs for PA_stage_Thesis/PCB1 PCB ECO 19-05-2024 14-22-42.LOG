@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=CPWG Member=NetIC2_12
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin C38-1
+Add Pin To Net: Unknown Pin: Pin C38-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Change Net Name : Old Net Name=NetIC2_12 New Net Name=NetC11_2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Added Member To Class: ClassName=CPWG Member=Wire NetC11_2
+Added Room: Name=MNA6A
+Added Room: Name=QPA9120
+Added Room: Name=TQP9111_Sparam_opt
