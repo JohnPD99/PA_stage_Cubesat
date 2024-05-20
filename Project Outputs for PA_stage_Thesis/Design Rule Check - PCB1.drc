@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\johnd\Documents\Altiumproject\PA_stage_Cubesat\PCB1.PcbDoc
 Date     : 20/05/2024
-Time     : 18:11:13
+Time     : 19:44:16
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (InNetClass('CPWG')),(InNet('GND'))
    Violation between Clearance Constraint: (0.175mm < 0.2mm) Between Pad IC3-1(13.233mm,115.19mm) on Top Layer And Track (9.933mm,114.688mm)(12.827mm,114.688mm) on Top Layer 
@@ -68,4 +68,4 @@ Rule Violations :0
 
 Violations Detected : 11
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
