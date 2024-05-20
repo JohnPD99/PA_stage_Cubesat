@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\johnd\Documents\Altiumproject\PA_stage_Cubesat\PCB1.PcbDoc
 Date     : 20/05/2024
-Time     : 17:24:39
+Time     : 18:11:13
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (InNetClass('CPWG')),(InNet('GND'))
    Violation between Clearance Constraint: (0.175mm < 0.2mm) Between Pad IC3-1(13.233mm,115.19mm) on Top Layer And Track (9.933mm,114.688mm)(12.827mm,114.688mm) on Top Layer 
@@ -18,22 +18,16 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C15-2(21.885mm,66.571mm) on Top Layer And Pad C29-1(24.779mm,48.043mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Free-MH4(14.733mm,108.762mm) on Multi-Layer And Pad C3-1(16.638mm,87.566mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 5V Between Track (8.7mm,123.542mm)(8.7mm,124.269mm) on Top Layer And Pad IC1-7(14.764mm,144.925mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC11_2 Between Pad IC2-12(18.995mm,73.94mm) on Top Layer And Pad IC2-13(18.995mm,74.44mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetC11_2 Between Pad IC2-13(18.995mm,74.44mm) on Top Layer And Pad IC2-14(18.995mm,74.94mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetIC2_2 Between Pad IC2-3(15.245mm,74.44mm) on Top Layer And Pad IC2-2(15.245mm,74.94mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetIC2_2 Between Pad IC2-4(15.245mm,73.94mm) on Top Layer And Pad IC2-3(15.245mm,74.44mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetC37_2 Between Pad IC4-12(27.136mm,34.417mm) on Top Layer And Pad IC4-13(27.136mm,34.917mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetC37_2 Between Pad IC4-13(27.136mm,34.917mm) on Top Layer And Pad IC4-14(27.136mm,35.417mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetIC4_2 Between Track (22.512mm,34.912mm)(23.38mm,34.912mm) on Top Layer And Pad IC4-2(23.386mm,35.417mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetIC4_2 Between Track (22.512mm,34.912mm)(23.38mm,34.912mm) on Top Layer And Pad IC4-4(23.386mm,34.417mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 5V Between Pad J9-1(6.35mm,104.521mm) on Top Layer And Track (10.288mm,86.144mm)(10.324mm,86.18mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 5V Between Pad L5-1(12.828mm,111.343mm) on Top Layer And Track (13.834mm,118.62mm)(14.897mm,118.62mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 5V Between Pad R19-2(18.429mm,46.621mm) on Top Layer And Pad R25-1(22.074mm,25.733mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 5V Between Track (15.114mm,118.327mm)(15.114mm,118.402mm) on Top Layer And Track (16.597mm,118.317mm)(16.597mm,118.392mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 5V Between Track (20.448mm,86.109mm)(22.843mm,86.109mm) on Top Layer And Track (15.74mm,63.5mm)(20.566mm,63.5mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 5V Between Track (26.79mm,63.508mm)(28.71mm,65.428mm) on Top Layer And Track (31.23mm,50.425mm)(31.369mm,50.564mm) on Top Layer 
-Rule Violations :15
+Rule Violations :9
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -72,6 +66,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 17
+Violations Detected : 11
 Waived Violations : 0
 Time Elapsed        : 00:00:01
